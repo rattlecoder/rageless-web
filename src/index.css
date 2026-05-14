@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  /* Our premium brand colors */
+  --color-background: #F8F9FD;
+  --color-primary: #1B2440;
+  --color-accent: #5BC58C;
+}
+
+/* Smooth scrolling for the whole page */
+html {
+  scroll-behavior: smooth;
+}
