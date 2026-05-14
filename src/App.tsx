@@ -1,3 +1,4 @@
+import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Hero from './components/sections/Hero';
 
@@ -9,6 +10,7 @@ function App() {
       
       {/* The main landing page content */}
       <Hero />
+      <Footer/>
     </main>
   );
 }
